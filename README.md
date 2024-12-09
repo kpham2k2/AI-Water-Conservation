@@ -20,4 +20,4 @@ AI Water Conservation will provide solutions in the form of:
 
 Explore our main Github page to learn more about our project!
 
-Link: ![(https://github.com/jordanboomin/Jade)]
+[(https://github.com/jordanboomin/Jade)]
